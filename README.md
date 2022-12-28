@@ -661,5 +661,4 @@ This is a list of the latest research materials (datasets, papers and codes) rel
 * [PIE](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)
 * [JAAD](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
 * [DS4C-PPP](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset)
-* [BDBC COVID-19](https://github.com/BDBC-KG-NLP/COVID-19-tracker)
 
